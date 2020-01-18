@@ -1,0 +1,9 @@
+image_blend=choose(
+	c_green,
+	c_lime,
+	c_purple,
+	c_navy,
+	c_blue,
+	c_maroon,
+	c_orange
+);
